@@ -8,4 +8,3 @@ International student at College LaSalle in Montreal, passionate about programmi
 
 
 ![Snake animation](https://github.com/kathleenforgiarini/kathleenforgiarini/blob/output/github-contribution-grid-snake.svg)
-
