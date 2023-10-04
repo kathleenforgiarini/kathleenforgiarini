@@ -30,13 +30,7 @@ International student at College LaSalle in Montreal, passionate about programmi
 <a href="#"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"> </a>
 🔶<a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> </a>
 <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>
-
-
-
-
-
-
-<a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> </a>
+🔶<a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> </a>
 
 ## ⚡GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathleenforgiarini&layout=compact)](https://github.com/kathleenforgiarini/github-readme-stats)
