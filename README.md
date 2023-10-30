@@ -7,6 +7,8 @@ International student at College LaSalle in Montreal, passionate about programmi
 
 <br/>
 
+### Check out my portfolio: https://kathleenforgiarini.vercel.app
+
 ## 🚀💻 Technologies & Tools
 
 <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </a>
@@ -24,6 +26,7 @@ International student at College LaSalle in Montreal, passionate about programmi
 <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> </a>
 &emsp;&emsp;<a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> </a>
 <a href="#"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> </a>
+<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </a>
 &emsp;&emsp;<a href="#"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"> </a>
 &emsp;&emsp;<a href="#"><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> </a>
 <a href="#"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> </a>
