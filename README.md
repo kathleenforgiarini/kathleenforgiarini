@@ -4,10 +4,11 @@
 
 ## About me
 International student at College LaSalle in Montreal, passionate about programming analysis, and constantly seeking to improve my skills. In this profile, you'll find a collection of projects and code samples showcasing my journey in the world of programming. Welcome! 
-
 <br/>
 
 ### Check out my portfolio: https://kathleenforgiarini.vercel.app
+
+<br/>
 
 ## 🚀💻 Technologies & Tools
 
