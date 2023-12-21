@@ -9,7 +9,7 @@ International student at College LaSalle in Montreal, passionate about programmi
 ### Check out my portfolio: https://kathleenforgiarini.vercel.app 🌟🖥️
 
 <br/>
-
+ 
 ## 🚀💻 Technologies & Tools
 
 <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </a>
